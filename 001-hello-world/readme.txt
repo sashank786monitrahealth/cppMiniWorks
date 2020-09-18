@@ -1,3 +1,8 @@
+##########
+## link
+##########
+https://www.cs.fsu.edu/~myers/howto/g++compiling.txt
+
 ######################################
 ### compilling a c plus plus program
 ######################################
